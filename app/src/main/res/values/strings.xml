@@ -1,0 +1,57 @@
+<resources>
+
+    <!--General strings-->
+    <string name="app_name">EatWithMe</string>
+    <string name="no_internet">Brak dostępu do Internetu</string>
+
+    <!--Strings related to MainActivity-->
+    <string name="button_new_group">Nowa grupa</string>
+    <string name="no_groups_available">Nie jesteś zapisany do żadnej z grup, spróbuj utworzyć nową grupe</string>
+
+    <!--Strings related to RestaurantMenuActivity-->
+    <string name="no_menu_available">Menu restauracji jest puste</string>
+    <string name="button_go_to_cart">Koszyk</string>
+    <string name="menu">Menu</string>
+    <string name="products">Produkty</string>
+    <string name="totalPrice">SUMA</string>
+    <string name="add_to_cart">Dodano do koszyka</string>
+
+    <!--Strings related to OrdersInGroupActivity-->
+    <string name="no_orders_available">Brak aktywnych zamówień</string>
+    <string name="button_new_order">Nowe zamówienie</string>
+    <string name="closing_time_text">Czas do zakończenia zamówienaia:</string>
+
+    <!--Strings related to loginActivity-->
+    <string name="button_create_account">Utwórz konto</string>
+    <string name="error_empty_field">Pole nie może być puste</string>
+    <string name="error_invalid_email">Niepoprawny adres email</string>
+    <string name="error_short_password">Hasło zbyt krótkie</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Hasło</string>
+    <string name="login_text">Zaloguj</string>
+    <string name="login_goes_wrong">Nie udało się zalogować</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!--Strings related to signUpActivity-->
+    <string name="sign_up_text">Zarejestruj</string>
+    <string name="password_again">Powtórz hasło</string>
+    <string name="error_defferent_passwords">Hasła nie są takie same</string>
+    <string name="something_goes_wrong">Nie udało się zarejestrować</string>
+
+    <!--Strings related to orderActivity-->
+    <string name="wyczy_moje_posi_ki">Wyczyść moje posiłki</string>
+    <string name="koszyk_jest_pusty">Koszyk jest pusty</string>
+    <string name="moje_zamowienie">Moje zamowienie</string>
+    <string name="brak">Brak</string>
+    <string name="inne_zam_wienia">Inne zamówienia</string>
+    <string name="nie_ma_innych_zam_wie">Nie ma innych zamówień</string>
+
+
+    <!--Strings related to toolbar_main-->
+    <string name="action_login">Wyloguj</string>
+
+
+    <!--Strings related to signUpActivity-->
+    <string name="wrong_email_text">Podany email jest już zajęty</string>
+
+</resources>
